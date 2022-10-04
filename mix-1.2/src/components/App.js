@@ -2,6 +2,7 @@ import React, {useState, useEffect} from 'react';
 import Header from './Header'
 import AnimeList from './AnimeList';
 import PostCards from './PostCards';
+import Home from './Home';
 
 
 function App() {
@@ -16,7 +17,7 @@ function App() {
 
   return(
     <div className="App">
-          <Header />
+          <Home />
           <AnimeList anime={anime}/>
       </div>
   )

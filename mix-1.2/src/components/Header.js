@@ -1,12 +1,11 @@
 import React, { useState } from 'react';
 
 function Header(){
-    const [showList, setShowList] = useState(true)
     return (
-            <nav>
+            <nav className='content'>
             <h1>Weeaboo</h1>
                 <ul>
-                <button><li>Home</li></button>
+                <li>Home</li>
                 <li>Movies</li>
                 <li>Series</li>
                 </ul>
