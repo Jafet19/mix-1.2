@@ -1,0 +1,282 @@
+{
+    "Anime":[{
+        "id": 1,
+        "title": "SPY X FAMILY",
+        "image": "https://img1.ak.crunchyroll.com/i/spire2/dd4cb19f0248492a47a3f4c74d1f5b0d1646497812_main.jpg",
+        "description": "Master spy Twilight is the best at what he does when it comes to going undercover on dangerous missions in the name of a better world. But when he receives the ultimate impossible assignment—get married and have a kid—he may finally be in over his head! Not one to depend on others, Twilight has his work cut out for him procuring both a wife and a child for his mission to infiltrate an elite private school. What he doesn’t know is that the wife he’s chosen is an assassin and the child he’s adopted is a telepath! Source: VIZ",
+        "rating": 8.6,
+        "type": "Series",
+        "characters":[
+            {
+                "id": 1,
+                "name": "Anya Forger",
+                "image": "https://i.scdn.co/image/ab67616d0000b27364ce43799f53366b384be263",
+                "waifu": false
+    },
+            {
+                "id": 2,
+                "name": "Ashisha",
+                "image": "https://i.scdn.co/image/ab67616d",
+                "waifu": false
+
+    }
+]
+
+    },
+    {
+        "id": 2,
+        "title": "Jujutsu Kaisen",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg",
+        "description": "Although Yuji Itadori looks like your average teenager, his immense physical strength is something to behold! Every sports club wants him to join, but Itadori would rather hang out with the school outcasts in the Occult Research Club. One day, the club manages to get their hands on a sealed cursed object. Little do they know the terror they’ll unleash when they break the seal… Source: Viz",
+        "rating": 8.6,
+        "type": "Series",
+        "characters":[
+            {
+                "id": 1,
+                "name": "",
+                "image": "",
+                "waifu": false
+    }]
+
+    },
+    {
+        "id": 3,
+        "title": "Chainsaw Man",
+        "image": "https://cdn.myanimelist.net/images/about_me/ranking_items/15200554-9627eed2-6ab3-4dcc-b27c-aa86db120fca.png?t=1663952255",
+        "description": "Denji is a teenage boy living with a Chainsaw Devil named Pochita. Due to the debt his father left behind, he has been living a rock-bottom life while repaying his debt by harvesting devil corpses with Pochita. One day, Denji is betrayed and killed. As his consciousness fades, he makes a contract with Pochita and gets revived as 'Chainsaw Man'—a man with a devil's heart. Source: Crunchyroll",
+        "rating": "18+",
+        "type": "Series",
+        "characters":[
+            {
+                "id": 1,
+                "name": "",
+                "image": "",
+                "waifu": false
+    }]
+
+    },
+    {
+        "id": 4,
+        "title": "Rent-a-Girlfriend",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmFlNGVkYmUtOGJiZi00NjM3LTk4NGEtNGJiNGVhNWQ5NWIxXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg",
+        "description": "In Japan, the lonely have a new way out — online services that rent out dads, children, even girlfriends! When Kazuya's true love dumps him, he's just desperate enough to try it, and he's shocked at how cute and sweet his rental girlfriend turns out to be. But she wants to keep their 'relationship' a secret, and there's a complication... she goes to his university... and their grandmothers are in the same home... and they live next door to each other?! And Kazuya finds out she's not nearly as nice in 'real life'...  Source: Kodansha",
+        "rating": 7.2,
+        "type": "Series",
+        "characters":[
+            {
+                "id": 1,
+                "name": "",
+                "image": "",
+                "waifu": false
+    }]
+
+    },
+    {
+        "id": 5,
+        "title": "DARLING in the FRANXX",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGVlY2ZhM2ItMWIwZC00YjU0LWJjNjAtZGVlNWJkM2JmZjhmXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+        "description": "Set in the distant future, the land is ruined and humanity establishes the mobile fort city Plantation. Pilots produced inside Plantation live in Mistilteinn, also know as the 'birdcage.' Children live there knowing nothing of the outside world or the freedom of the sky. Their lives consist of battling to carry out missions. Their enemies are mysterious giant lifeforms known as Kyouryuu, and the children pilot robots called Franxx to face off against them. For the children, riding the Franxx proves their existence. A boy named Hiro is called Code:016, and he was once known as a prodigy. However, he has fallen behind, and his existence seems unnecessary. Not piloting a Franxx is the same as ceasing to exist. One day, a mysterious girl known as 'Zero Two' appears before him. Two horns grow out of her head. Source: ANN",
+        "rating": 7.4,
+        "type": "Series",
+        "characters":[
+            {
+                "id": 1,
+                "name": "",
+                "image": "",
+                "waifu": false
+    }]
+
+    },
+    {
+        "id": 6,
+        "title": "Erased",
+        "image": "https://flxt.tmsimg.com/assets/p14332232_b_v8_ae.jpg",
+        "description": "Satoru Fujinuma is a reclusive part-timer with no plans for the future. What sets him apart from the other slackers in his town is an involuntary time travel ability that allows him to jump back several seconds in time in order to prevent accidents and even deaths. As incidents around town begin reminding Satoru of a childhood trauma he'd sooner forget, he finally begins to question what caused his ability to surface and whether or not it's powerful enough to change the past. Source: Funimation",
+        "rating": 6.4,
+        "type": "Series",
+        "characters":[
+            {
+                "id": 1,
+                "name": "",
+                "image": "",
+                "waifu": false
+    }]
+
+    },
+    {
+        "id": 7,
+        "title": "Kaguya-sama: Love Is War",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjEwNjEwYzgtZGZkMy00MTBjLTg2MmYtNDk0MzY2NmU0MmNiXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg",
+        "description": "As leaders of their prestigious academy’s student council, Kaguya and Miyuki are the elite of the elite! But it’s lonely at the top… Luckily for them, they’ve fallen in love! There’s just one problem—they both have too much pride to admit it. And so begins the daily scheming to get the object of their affection to confess their romantic feelings first…Love is a war you win by losing. Source: Viz",
+        "rating": 8.6,
+        "type": "Series",
+        "characters":[
+            {
+                "id": 1,
+                "name": "",
+                "image": "",
+                "waifu": false
+    }]
+
+    },
+    {
+        "id": 8,
+        "title": "My Dress-Up Darling",
+        "image": "https://img1.ak.crunchyroll.com/i/spire1/3f4a1835d85925aee588edef6bbebe5d1641592593_main.jpg",
+        "description": "Traumatized by a childhood incident with a friend who took exception to his love of traditional dolls, doll-artisan hopeful Wakana Gojou passes his days as a loner, finding solace in the home ec room at his high school. To Wakana, people like beautiful Marin Kitagawa, a trendy girl who's always surrounded by a throng of friends, is practically an alien from another world. But when cheerful Marin--never one to be shy--spots Wakana sewing away one day after school, she barges in with the aim of roping her quiet classmante into her secret hobby: cosplay! Will Wakana's wounded heart be able to handle the invasion from this sexy alien?! Source: Square Enix",
+        "rating": 8.1,
+        "type": "Series",
+        "characters":[
+            {
+                "id": 1,
+                "name": "",
+                "image": "",
+                "waifu": false
+    }]
+
+    },
+    {
+        "id": 9,
+        "title": "Sword Art Online",
+        "image": "https://cdn.myanimelist.net/images/anime/11/39717.jpg",
+        "description": "The year is 2022, and gamers have lined up on launch day for Sword Art Online, a hotly-anticipated MMORPG that lets players connect to an immersive virtual reality world with special helmets called Nerve Gear. Kirito is one such gamer who's eager to jump back into action, having spent a great deal of time as a beta tester, and quickly becomes friends with newbie warrior Klein. But soon, Sword Art Online's 10,000 players discover that not only are they unable to log out, the only way they can return to their physical bodies is by beating the 100-level tower's final boss - that is, if their HP doesn't drop to zero first, for death in the game means death in the real world. Now, with no one else to turn to, Kirito and the other participants must survive the game as best they can – some forming guilds, others ruthlessly leaving their peers behind, and many tragically falling by the wayside or to the merciless monsters populating the lands...",
+        "rating": 7.6,
+        "type": "Series",
+        "characters":[
+            {
+                "id": 1,
+                "name": "",
+                "image": "",
+                "waifu": false
+    }]
+
+    },
+    {
+        "id": 10,
+        "title": "Rascal Does Not Dream of Bunny Girl Senpai",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGQ1ZjYzOGQtOWFhNy00YzQwLWEyYmItZGYwODQ4NDU3MDhlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg",
+        "description": "Puberty syndrome – Abnormal experiences rumored on the internet to be caused by sensitivity and instability during adolescence. This year, Sakuta Azusagawa, a second-year student at a high school near Enoshima, meets several girls that are experiencing this “puberty syndrome.” For instance, he meets a wild bunny girl in the library. She turns out to be an actress on hiatus, Mai Sakurajima, who is also his senior at the school. For some reason, no one else can see this enchanting girl. How did she become invisible…? Source: Crunchyroll",
+        "rating": 8.1,
+        "type": "Series",
+        "characters":[
+            {
+                "id": 1,
+                "name": "",
+                "image": "",
+                "waifu": false
+    }]
+
+    },
+    {
+        "id": 11,
+        "title": "Bleach",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Bleachanime.png/220px-Bleachanime.png",
+        "description": "Fifteen-year-old Ichigo Kurosaki is a typical teen with fighting skills, two caring sisters and a special trait: he can see ghosts. However, when Ichigo and his family find themselves under attack by a huge beast, Ichigo discovers that there’s more to the supernatural world than the everyday specter. Vengeful spirits known as Hollows roam the world in search of devouring souls, and Shinigami – soul reapers – work tirelessly to defeat them and guide normal ghosts into a place called Soul Society. Ichigo valiantly fights the Hollow that threatens his sisters, but on the verge of defeat a Shinigami named Rukia gives him her powers, turning him into a Shinigami himself. Ichigo must now adjust to his new life of both vanquishing and saving souls for the sake of Soul Society.",
+        "rating": 8.2,
+        "type": "Series",
+        "characters":[
+            {
+                "id": 1,
+                "name": "",
+                "image": "",
+                "waifu": false
+    }]
+
+    },
+    {
+        "id": 12,
+        "title": "JoJo's Bizarre Adventure: Golden Wind",
+        "image": "https://static.jojowiki.com/images/5/55/latest/20211006220829/GoldenWind-Promo.png",
+        "description": "Giorno Giovanna is a young man that lives in Naples and is the son of DIO, the nemesis of the Joestar family. When he was younger, he was oppressed and started acting out, but one day, he saved a gang member and then learned how to trust people. Bizarrely, he never forgot that and learned how to be respectful with  his own gang that straightened him out. That’s also how he started aspiring to become a Gang-Star. Now fifteen, Giorno gets in trouble with the gang Passione, which controls the Italian mafia underworld, and now, he’s being targeted. Source: Crunchyroll",
+        "rating": 8.6,
+        "type": "Series",
+        "characters":[
+            {
+                "id": 1,
+                "name": "",
+                "image": "",
+                "waifu": false
+    }]
+
+    },
+    {
+        "id": 13,
+        "title": "Weathering With You",
+        "image": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/weatheringwithyou-movie-cover-min.jpg",
+        "description": "The summer of his high school freshman year, Hokoda runs away from his remote island home to Tokyo, and quickly finds himself pushed to his financial and personal limits. The weather is unusually gloomy and rainy every day, as if to suggest his future. He lives his days in isolation, but finally finds work as a writer for a mysterious occult magazine. Then one day, Hokoda meets Hina on a busy street corner. This bright and strong­willed girl possesses a strange and wonderful ability: the power to stop the rain and clear the sky... Source: GKids",
+        "rating": 7.5,
+        "type": "Movie",
+        "characters":[
+            {
+                "id": 1,
+                "name": "",
+                "image": "",
+                "waifu": false
+    }]
+
+    },
+    {
+        "id": 14,
+        "title": "A Silent Voice",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGRkOGMxYTUtZTBhYS00NzI3LWEzMDQtOWRhMmNjNjJjMzM4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "description": "After transferring into a new school, a deaf girl, Shouko Nishimiya, is bullied by the popular Shouya Ishida. As Shouya continues to bully Shouko, the class turns its back on him. Shouko transfers and Shouya grows up as an outcast. Alone and depressed, the regretful Shouya finds Shouko to make amends. Source: Eleven Arts",
+        "rating": 8.1,
+        "type": "Movie",
+        "characters":[
+            {
+                "id": 1,
+                "name": "",
+                "image": "",
+                "waifu": false
+    }]
+
+    },
+    {
+        "id": 15,
+        "title": "your name.",
+        "image": "https://raisingchildren.net.au/__data/assets/image/0031/57388/your-name.jpg",
+        "description": " Mitsuha and Taki are two total strangers living completely different lives. But when Mitsuha makes a wish to leave her mountain town and for the bustling city of Tokyo, they become connected in a bizarre way. She dreams she is a boy living in Tokyo while Taki dreams he is a girl from a rural town he’s never been to. What does their newfound connection mean? And how will it bring them together? Source: Funimation",
+        "rating": 8.4,
+        "type": "Movie",
+        "characters":[
+            {
+                "id": 1,
+                "name": "",
+                "image": "",    
+                "waifu": false
+    }]
+
+    },
+    {
+        "id": 16,
+        "title": "Gekijouban Violet Evergarden",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTJmNzc5YTEtNTBmNy00YmUxLWFlNzktYjZjMTg3OGY3ZDhkXkEyXkFqcGdeQXVyMzUzMzgxNA@@._V1_FMjpg_UX1000_.jpg",
+        "description": "As the world moves on from the war and technological advances bring changes to her life, Violet still hopes to see her lost commanding officer again. Source: Netflix",
+        "rating": 8.3,
+        "type": "Movie",
+        "characters":[
+            {
+                "id": 1,
+                "name": "",
+                "image": "",    
+                "waifu": false
+    }]
+
+    },
+    {
+        "id": 17,
+        "title": "Howl's Moving Castle",
+        "image": "https://www.commonsensemedia.org/sites/default/files/styles/ratio_2_3_medium/public/product-images/csm-movie/howls-moving-castle-min.jpg",
+        "description": "The responsible Sophie led a relatively normal life, safe within the walls of the hat shop in which she works; for outside, it is rumored, the evil wizard Howl roams the land in his mobile black castle. After a chance and mystical encounter, poor Sophie finds herself transformed by a witch's spell which makes her appear to be an old woman, and thus embarks on an adventure to find Howl’s castle and put an end to her curse. A mystical world of talking flames, sentient scarecrows, and magic aplenty awaits those who seek the legendary Howl... An adaptation of Howl's Moving Castle by Diana Wynne Jones",
+        "rating": 8.2,
+        "type": "Movie",
+        "characters":[
+            {
+                "id": 1,
+                "name": "",
+                "image": "",    
+                "waifu": false
+    }]
+    }
+    ]
+}
